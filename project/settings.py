@@ -25,12 +25,13 @@ SECRET_KEY = 'django-insecure-d1_*5_ghvg#)168x5epz7al+96s5_as3he2whgts@zx*-qi!ks
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'songs.apps.SongsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -117,3 +118,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.0/howto/static-files/
 
 STATIC_URL = 'static/'
+
+API_REDIRECT_URL = "http://localhost:8000/oauth"
+
+USER_AGENT = "KeyIsInTheMusic(KIIM)/1.0.0 (milan.kecman270@gmail.com)"
