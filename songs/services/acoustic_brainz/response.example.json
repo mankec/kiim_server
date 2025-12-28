@@ -1,0 +1,171 @@
+{
+  "4033d60f-7f2a-4863-a83d-bd7df81c4f98": {
+    "0": {
+      "metadata": {
+        "audio_properties": {
+          "analysis_sample_rate": 44100,
+          "bit_rate": 320024,
+          "codec": "mp3",
+          "downmix": "mix",
+          "equal_loudness": 0,
+          "length": 354.559997559,
+          "lossless": false,
+          "md5_encoded": "d9afd4c806b2515a1a447afcbe63bcd7",
+          "replay_gain": -16.6137046814,
+          "sample_rate": 44100
+        },
+        "version": {
+          "essentia": "2.1-beta2",
+          "essentia_build_sha": "2d9f1f26377add8aeb1075a9c2973f962c4f09fd",
+          "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+          "extractor": "music 1.0"
+        }
+      },
+      "tonal": {
+        "key_key": "A#",
+        "key_scale": "minor"
+      }
+    }
+  },
+  "6b88634c-804c-4366-b573-c13bd026cc10": {
+    "0": {
+      "metadata": {
+        "audio_properties": {
+          "analysis_sample_rate": 44100,
+          "bit_rate": 126140,
+          "codec": "mp3",
+          "downmix": "mix",
+          "equal_loudness": 0,
+          "length": 345.2081604,
+          "lossless": false,
+          "md5_encoded": "f160ebff6cee261c57cd850c6cfe4755",
+          "replay_gain": -13.5719184875,
+          "sample_rate": 44100
+        },
+        "version": {
+          "essentia": "2.1-beta2",
+          "essentia_build_sha": "2d9f1f26377add8aeb1075a9c2973f962c4f09fd",
+          "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+          "extractor": "music 1.0"
+        }
+      },
+      "tonal": {
+        "key_key": "A",
+        "key_scale": "minor"
+      }
+    }
+  },
+  "7b0c65cd-8bde-40e3-ab95-e3a4f0333f7f": {
+    "0": {
+      "metadata": {
+        "audio_properties": {
+          "analysis_sample_rate": 44100,
+          "bit_rate": 320024,
+          "codec": "mp3",
+          "downmix": "mix",
+          "equal_loudness": 0,
+          "length": 350.693878174,
+          "lossless": false,
+          "md5_encoded": "579021ff4af7b1eca43427ec1088a1b9",
+          "replay_gain": -15.1932296753,
+          "sample_rate": 44100
+        },
+        "version": {
+          "essentia": "2.1-beta2",
+          "essentia_build_sha": "2d9f1f26377add8aeb1075a9c2973f962c4f09fd",
+          "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+          "extractor": "music 1.0"
+        }
+      },
+      "tonal": {
+        "key_key": "D",
+        "key_scale": "minor"
+      }
+    }
+  },
+  "835d20ad-df96-42fa-8ec4-d4f73e1fe015": {
+    "0": {
+      "metadata": {
+        "audio_properties": {
+          "analysis_sample_rate": 44100,
+          "bit_rate": 320000,
+          "codec": "mp3",
+          "downmix": "mix",
+          "equal_loudness": 0,
+          "length": 336.03918457,
+          "lossless": false,
+          "md5_encoded": "a2f488e90392823e51b9333ae8e853ce",
+          "replay_gain": -7.53806304932,
+          "sample_rate": 44100
+        },
+        "version": {
+          "essentia": "2.1-beta2",
+          "essentia_build_sha": "083b2af80a69338c2f86184549eb5ed45c8c27db",
+          "essentia_git_sha": "v2.1_beta2-15-g8ccb801",
+          "extractor": "music 1.0"
+        }
+      },
+      "tonal": {
+        "key_key": "C#",
+        "key_scale": "major"
+      }
+    }
+  },
+  "b6411d6b-2dca-4004-8919-e8c27ff6b286": {
+    "0": {
+      "metadata": {
+        "audio_properties": {
+          "analysis_sample_rate": 44100,
+          "bit_rate": 128000,
+          "codec": "mp3",
+          "downmix": "mix",
+          "equal_loudness": 0,
+          "length": 362.083251953,
+          "lossless": false,
+          "md5_encoded": "080f6d3113da3d32241e811b247fe84a",
+          "replay_gain": -17.4537639618,
+          "sample_rate": 44100
+        },
+        "version": {
+          "essentia": "2.1-beta2",
+          "essentia_build_sha": "cead25079874084f62182a551b7393616cd33d87",
+          "essentia_git_sha": "v2.1_beta2-1-ge3940c0",
+          "extractor": "music 1.0"
+        }
+      },
+      "tonal": {
+        "key_key": "D",
+        "key_scale": "minor"
+      }
+    }
+  },
+  "e241cf7a-f2b1-4c87-b3ea-ad5dfe4b5e65": {
+    "0": {
+      "metadata": {
+        "audio_properties": {
+          "analysis_sample_rate": 44100,
+          "bit_rate": 192000,
+          "codec": "mp3",
+          "downmix": "mix",
+          "equal_loudness": 0,
+          "length": 27.4024486542,
+          "lossless": false,
+          "md5_encoded": "d09ebb4d2d0714fd5512fa67c26ee49d",
+          "replay_gain": -5.8675365448,
+          "sample_rate": 44100
+        },
+        "version": {
+          "essentia": "2.1-beta2",
+          "essentia_build_sha": "70f2e5ece6736b2c40cc944ad0e695b16b925413",
+          "essentia_git_sha": "v2.1_beta2",
+          "extractor": "music 1.0"
+        }
+      },
+      "tonal": {
+        "key_key": "F",
+        "key_scale": "minor"
+      }
+    }
+  },
+  "mbid_mapping": {}
+}
