@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 environs = "*"
+requests = "*"
 
 [dev-packages]
 
