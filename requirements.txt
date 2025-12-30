@@ -7,9 +7,11 @@ Django==6.0
 django-extensions==4.1
 djangorestframework==3.16.1
 environs==14.5.0
+gunicorn==23.0.0
 idna==3.11
 MarkupSafe==3.0.3
 marshmallow==4.1.2
+packaging==25.0
 pycparser==2.23
 pyOpenSSL==25.3.0
 python-dotenv==1.2.1
